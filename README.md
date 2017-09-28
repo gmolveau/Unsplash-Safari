@@ -1,4 +1,4 @@
-# Unsplash-Safari
+# Unsplash-Random
 A super simple html file for having the functionality of Unsplash Instant (Chrome extension) in Safari, and pretty much any other browser (Desktop or Mobile).
 
 ## Installation
